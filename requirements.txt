@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+streamlit
+requests
+langgraph
+openai
+groqp
+ipython
+langchain
