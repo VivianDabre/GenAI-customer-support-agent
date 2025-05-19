@@ -4,7 +4,7 @@
 This is a FastAPI-based application powered by LangGraph and Groq's LLaMA3-70B model to automatically analyse customer support tickets, detect sentiment, categorise ticket types, and decide whether a query should be escalated to a human agent.
 
 ## Demo Video
-Watch the demo video: [Demo Video](https://vimeo.com/1085642391?share=copy#t=0)
+[![Watch the demo video: ](./demo_thumbnail.png)](https://vimeo.com/1085642391?share=copy#t=0)
 
 ---
 
